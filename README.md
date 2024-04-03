@@ -24,6 +24,12 @@ Sales Data : The primary dataset is used for this analysis is the " Adidas_sales
 - Excel - Data Cleaning
 - PowerBI- Creating Dashboards, Data Visualization
 
+### Project dashboard includes:-
+
+- Sheet 1: Sales overview
+- Sheet 2: Product Analysis 
+- Sheet 3: Trend Analysis 
+
  ### Data Preparation
 
 In the initial data preparation phase, we performed the following tasks:
