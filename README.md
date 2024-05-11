@@ -86,6 +86,9 @@ Based on the analysis, we recommend the following actions:
 ### Dashboard
 
 ![Screenshot 2024-03-01 023210](https://github.com/purvaphalak/Adidas_Sales_Analysis/assets/148857209/b5487389-b35f-41e4-972c-9a2e7097c406)
+
 ![Screenshot 2024-03-01 023250](https://github.com/purvaphalak/Adidas_Sales_Analysis/assets/148857209/d8a28c56-1447-40a6-9faf-97a027da9e7c)
+
 ![Screenshot 2024-03-01 023321](https://github.com/purvaphalak/Adidas_Sales_Analysis/assets/148857209/914279f9-000b-4e54-8b52-46e8a78d81e5)
+
 ![Screenshot 2024-03-01 023358](https://github.com/purvaphalak/Adidas_Sales_Analysis/assets/148857209/2aae1500-8258-4cf5-9514-6cc25b380407)
