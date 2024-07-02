@@ -86,9 +86,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- 
-- Focus on expanding and promoting products in Category A.
-- 
+- Focus on expanding and promoting products in Category A. 
 - Implement a customer segmentation strategy to target high-LTV customers effectively.
 
 ### Dashboard
