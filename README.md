@@ -11,6 +11,10 @@
 - [Dashboard](#dashboard)
 
 
+https://github.com/user-attachments/assets/13c2b115-6d35-40f6-904c-ef61762cab57
+
+
+
 ### Project Overview
 
 - This Project data contain Adidas sales data for different retailers, including Foot Locker, Walmart, and Sports Direct, over a period of time in 2020.
